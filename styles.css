@@ -49,8 +49,7 @@ body {
 
 }
 
-
-/* Portfolio Styles*/
+/* Portfolio Styles */
 
 .portfolio-items-wrapper {
     display: grid;
@@ -89,7 +88,7 @@ body {
 
 }
 
-/*Needs to be more specific with selector*/
+/* Needs to be more specific with selector */
 
 .img-text-wrapper .subtitle{
     transition: 1s;
