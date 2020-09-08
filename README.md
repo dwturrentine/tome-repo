@@ -1,7 +1,7 @@
 # TomeRepo
 A portfolio-style website written in HTML, CSS, and JavaScript.
 
-# What I Learned
+# Knowledge, Skills, & Abilities
 1. CSS grid and flexbox.
 2. CSS and JavaScript animations.
 3. Basic JavaScript.
